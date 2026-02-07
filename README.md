@@ -144,6 +144,7 @@
 
 #### PIFuHD
 
+#### Hitem3D 2D转3D https://platform.hitem3d.ai/
 #### https://www.modddif.com/
 
 #### Remy 鸿蒙专用，拍摄视频转3D
