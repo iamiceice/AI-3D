@@ -147,6 +147,9 @@
 #### Hitem3D 2D转3D https://platform.hitem3d.ai/
 #### https://www.modddif.com/
 
+#### Send3D https://send.bytedance.com/
+
+#### SAM 3D https://ai.meta.com/
 #### Remy 鸿蒙专用，拍摄视频转3D
 
 #### Rodin 国产 https://hyper3d.ai/
