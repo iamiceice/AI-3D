@@ -148,7 +148,8 @@
 #### https://www.modddif.com/
 
 #### Send3D https://send.bytedance.com/
-
+#### https://jinnmnm.github.io/Fuse3d.github.io/
+#### Wonder 3D http://www.xxlong.site/Wonder3D/ 这是一个集成到 Autodesk Flow Studio 中的生成式 AI 模型。
 #### SAM 3D https://ai.meta.com/
 #### Remy 鸿蒙专用，拍摄视频转3D
 
