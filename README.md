@@ -154,3 +154,5 @@
 #### Remy 鸿蒙专用，拍摄视频转3D
 
 #### Rodin 国产 https://hyper3d.ai/
+
+#### Hi3D（国内输入 hi3d.ai 直接访问）是数美万物团队做的一款 AI 3D 建模平台
