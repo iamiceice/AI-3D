@@ -156,3 +156,6 @@
 #### Rodin 国产 https://hyper3d.ai/
 
 #### Hi3D（国内输入 hi3d.ai 直接访问）是数美万物团队做的一款 AI 3D 建模平台
+
+#### Lyra生成3D 项目主页：https://research.nvidia.com/labs/sil/projects/lyra2/
+#### GitHub Repo：https://github.com/nv-tlabs/lyra （包含Lyra 1.0和2.0
