@@ -159,3 +159,4 @@
 
 #### Lyra生成3D 项目主页：https://research.nvidia.com/labs/sil/projects/lyra2/
 #### GitHub Repo：https://github.com/nv-tlabs/lyra （包含Lyra 1.0和2.0
+#### https://pixel3d.in/ 2D图片转3D
