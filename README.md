@@ -162,3 +162,4 @@
 #### https://pixel3d.in/ 2D图片转3D
 #### Modly：一张照片丢进去，本地 GPU 直接生成 3D 网格
 #### Neural4D（官网：www.neural4d.com）是一款基于 AI 的 3D 资产生成器。
+#### REST3D 项目：https://shirleymaxx.github.io/REST3D/ github:https://github.com/ShirleyMaxx/REST3D
