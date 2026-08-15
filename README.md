@@ -18,6 +18,11 @@
 ##### https://github.com/tencent/Hunyuan3D-2
 ##### AI创作引擎为普通UGC和游戏等专业场景提供了一站式3D内容生产的AI创作平台，支持搭建3D基模型+3D功能矩阵+3D生成工作流+创作素材库一体的完整3D AI创作平台。
 
+#### WorldClaw：
+#### 腾讯发布混元WorldClaw,一句话生成3D开放世界
+#### https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw
+#### https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
+
 #### Material Anything
 ##### 这是一个统一的框架，用于生成各种3D对象的PBR材质，包括无纹理、仅反照率、生成的和扫描的网格。通过利用精心设计的材质扩散模型，方法可以以前馈的方式生成高保真材质。
 
