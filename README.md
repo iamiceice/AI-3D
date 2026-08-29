@@ -172,3 +172,4 @@
 #### VGGT-Edit是由北京大学、香港中文大学、上海 AI Lab 等机构于 2026 年 5 月提出的原生 3D 场景编辑框架
 #### https://github.com/Chriszkxxx/VGGT-Edit
 #### https://chriszkxxx.github.io/VGGT-Edit/
+#### https://lux3d.aholo3d.cn/lux3d/home Lux3D是杭州群核信息技术有限公司（群核科技）自主研发的3D生成模型
